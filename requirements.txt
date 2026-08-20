@@ -1,0 +1,5 @@
+SimpleITK==2.4.1
+scipy==1.15.2
+numpy==1.26.4
+nibabel
+nnunetv2==2.6.0

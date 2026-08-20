@@ -1,0 +1,14 @@
+{
+    "channel_names": {
+        "0": "CT",
+        "1": "PET",
+        "2": "FG",
+        "3": "BG"
+    },
+    "labels": {
+        "background": 0,
+        "tumor": 1
+    },
+    "numTraining": 1811,
+    "file_ending": ".nii.gz"
+}
